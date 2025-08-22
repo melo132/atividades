@@ -3,20 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\noah59267326\\OneDrive\\senac\\senac 1\\lista 1\\exercicio1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A48927D6-5691-4A0B-BF8C-8A9618F29858}|..\\exxercico6\\exxercico6.csproj|c:\\users\\noah59267326\\onedrive\\senac\\senac 1\\lista 1\\exxercico6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A0DB04D-A679-4478-9D36-A0224B8A6E2B}|..\\exercicio10\\exercicio10.csproj|c:\\users\\noah59267326\\onedrive\\senac\\senac 1\\lista 1\\exercicio10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3C2ACC5-5D08-482F-950C-92BFA041DC46}|..\\exercicio5\\exercicio5.csproj|c:\\users\\noah59267326\\onedrive\\senac\\senac 1\\lista 1\\exercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6979B219-D1C8-44F7-902F-66237B49E36B}|..\\exercicio9\\exercicio9.csproj|c:\\users\\noah59267326\\onedrive\\senac\\senac 1\\lista 1\\exercicio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64C1DC42-A057-4D1C-BCE0-F72138606806}|..\\exercico8\\exercico8.csproj|c:\\users\\noah59267326\\onedrive\\senac\\senac 1\\lista 1\\exercico8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0CF05A4-E569-43A0-AA12-0B768FEBBBAC}|..\\exercicio7\\exercicio7.csproj|c:\\users\\noah59267326\\onedrive\\senac\\senac 1\\lista 1\\exercicio7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A48927D6-5691-4A0B-BF8C-8A9618F29858}|..\\exxercico6\\exxercico6.csproj|c:\\users\\noah59267326\\onedrive\\senac\\senac 1\\lista 1\\exxercico6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58349A8E-70B4-472A-ADA5-0B70EBC6244E}|..\\exercicio 4\\exercicio 4.csproj|c:\\users\\noah59267326\\onedrive\\senac\\senac 1\\lista 1\\exercicio 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE496DB1-AD08-43AD-AD97-5325D4AB9A04}|..\\exercicio2\\exercicio2.csproj|c:\\users\\noah59267326\\onedrive\\senac\\senac 1\\lista 1\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0CF05A4-E569-43A0-AA12-0B768FEBBBAC}|..\\exercicio7\\exercicio7.csproj|c:\\users\\noah59267326\\onedrive\\senac\\senac 1\\lista 1\\exercicio7\\exercicio7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2801CA73-7E0B-4DBD-B928-1C125EE389D4}|exercicio1.csproj|c:\\users\\noah59267326\\onedrive\\senac\\senac 1\\lista 1\\exercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2801CA73-7E0B-4DBD-B928-1C125EE389D4}|exercicio1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE496DB1-AD08-43AD-AD97-5325D4AB9A04}|..\\exercicio2\\exercicio2.csproj|c:\\users\\noah59267326\\onedrive\\senac\\senac 1\\lista 1\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C2ACC5-5D08-482F-950C-92BFA041DC46}|..\\exercicio5\\exercicio5.csproj|c:\\users\\noah59267326\\onedrive\\senac\\senac 1\\lista 1\\exercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,18 +47,83 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noah59267326\\OneDrive\\senac\\senac 1\\lista 1\\exercicio10\\Program.cs",
+              "RelativeDocumentMoniker": "..\\exercicio10\\Program.cs",
+              "ToolTip": "C:\\Users\\noah59267326\\OneDrive\\senac\\senac 1\\lista 1\\exercicio10\\Program.cs",
+              "RelativeToolTip": "..\\exercicio10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T12:38:20.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noah59267326\\OneDrive\\senac\\senac 1\\lista 1\\exercicio9\\Program.cs",
+              "RelativeDocumentMoniker": "..\\exercicio9\\Program.cs",
+              "ToolTip": "C:\\Users\\noah59267326\\OneDrive\\senac\\senac 1\\lista 1\\exercicio9\\Program.cs",
+              "RelativeToolTip": "..\\exercicio9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T12:28:08.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noah59267326\\OneDrive\\senac\\senac 1\\lista 1\\exercico8\\Program.cs",
+              "RelativeDocumentMoniker": "..\\exercico8\\Program.cs",
+              "ToolTip": "C:\\Users\\noah59267326\\OneDrive\\senac\\senac 1\\lista 1\\exercico8\\Program.cs",
+              "RelativeToolTip": "..\\exercico8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T12:11:34.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "exercicio7",
+              "DocumentMoniker": "C:\\Users\\noah59267326\\OneDrive\\senac\\senac 1\\lista 1\\exercicio7\\exercicio7.csproj",
+              "RelativeDocumentMoniker": "..\\exercicio7\\exercicio7.csproj",
+              "ToolTip": "C:\\Users\\noah59267326\\OneDrive\\senac\\senac 1\\lista 1\\exercicio7\\exercicio7.csproj",
+              "RelativeToolTip": "..\\exercicio7\\exercicio7.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-22T11:53:36.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\noah59267326\\OneDrive\\senac\\senac 1\\lista 1\\exercicio7\\Program.cs",
+              "RelativeDocumentMoniker": "..\\exercicio7\\Program.cs",
+              "ToolTip": "C:\\Users\\noah59267326\\OneDrive\\senac\\senac 1\\lista 1\\exercicio7\\Program.cs",
+              "RelativeToolTip": "..\\exercicio7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:59:23.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\noah59267326\\OneDrive\\senac\\senac 1\\lista 1\\exxercico6\\Program.cs",
               "RelativeDocumentMoniker": "..\\exxercico6\\Program.cs",
               "ToolTip": "C:\\Users\\noah59267326\\OneDrive\\senac\\senac 1\\lista 1\\exxercico6\\Program.cs",
               "RelativeToolTip": "..\\exxercico6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T13:50:43.199Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\noah59267326\\OneDrive\\senac\\senac 1\\lista 1\\exercicio5\\Program.cs",
               "RelativeDocumentMoniker": "..\\exercicio5\\Program.cs",
@@ -51,25 +131,24 @@
               "RelativeToolTip": "..\\exercicio5\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T13:28:20.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T13:28:20.087Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\noah59267326\\OneDrive\\senac\\senac 1\\lista 1\\exercicio 4\\Program.cs",
               "RelativeDocumentMoniker": "..\\exercicio 4\\Program.cs",
               "ToolTip": "C:\\Users\\noah59267326\\OneDrive\\senac\\senac 1\\lista 1\\exercicio 4\\Program.cs",
               "RelativeToolTip": "..\\exercicio 4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-19T13:20:38.509Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\noah59267326\\OneDrive\\senac\\senac 1\\lista 1\\exercicio2\\Program.cs",
               "RelativeDocumentMoniker": "..\\exercicio2\\Program.cs",
@@ -77,12 +156,11 @@
               "RelativeToolTip": "..\\exercicio2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T12:18:08.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T12:18:08.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\noah59267326\\OneDrive\\senac\\senac 1\\lista 1\\exercicio1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -90,8 +168,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T11:55:49.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-19T11:55:49.481Z"
             }
           ]
         }

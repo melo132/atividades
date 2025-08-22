@@ -1,0 +1,15 @@
+C:\Users\noah59267326\OneDrive\senac\senac 1\lista 1\exercico8\bin\Debug\net8.0\exercico8.exe
+C:\Users\noah59267326\OneDrive\senac\senac 1\lista 1\exercico8\bin\Debug\net8.0\exercico8.deps.json
+C:\Users\noah59267326\OneDrive\senac\senac 1\lista 1\exercico8\bin\Debug\net8.0\exercico8.runtimeconfig.json
+C:\Users\noah59267326\OneDrive\senac\senac 1\lista 1\exercico8\bin\Debug\net8.0\exercico8.dll
+C:\Users\noah59267326\OneDrive\senac\senac 1\lista 1\exercico8\bin\Debug\net8.0\exercico8.pdb
+C:\Users\noah59267326\OneDrive\senac\senac 1\lista 1\exercico8\obj\Debug\net8.0\exercico8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noah59267326\OneDrive\senac\senac 1\lista 1\exercico8\obj\Debug\net8.0\exercico8.AssemblyInfoInputs.cache
+C:\Users\noah59267326\OneDrive\senac\senac 1\lista 1\exercico8\obj\Debug\net8.0\exercico8.AssemblyInfo.cs
+C:\Users\noah59267326\OneDrive\senac\senac 1\lista 1\exercico8\obj\Debug\net8.0\exercico8.csproj.CoreCompileInputs.cache
+C:\Users\noah59267326\OneDrive\senac\senac 1\lista 1\exercico8\obj\Debug\net8.0\exercico8.sourcelink.json
+C:\Users\noah59267326\OneDrive\senac\senac 1\lista 1\exercico8\obj\Debug\net8.0\exercico8.dll
+C:\Users\noah59267326\OneDrive\senac\senac 1\lista 1\exercico8\obj\Debug\net8.0\refint\exercico8.dll
+C:\Users\noah59267326\OneDrive\senac\senac 1\lista 1\exercico8\obj\Debug\net8.0\exercico8.pdb
+C:\Users\noah59267326\OneDrive\senac\senac 1\lista 1\exercico8\obj\Debug\net8.0\exercico8.genruntimeconfig.cache
+C:\Users\noah59267326\OneDrive\senac\senac 1\lista 1\exercico8\obj\Debug\net8.0\ref\exercico8.dll
